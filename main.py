@@ -4,10 +4,10 @@ import cv2
 from team_assigner import TeamAssigner
 from player_ball_assigner import PlayerBallAssigner
 
-team_name = "Guada"
-video_path = "data/Guada.mp4"
-stub_path = "stubs/Guada.pkl"
-out_path = "out/Guada.avi"
+# team_name = "CAS-LOG"
+video_path = "data/TLV-ADE.mp4"
+stub_path = "stubs/TLV-ADE.pkl"
+out_path = "out/TLV-ADE.avi"
 
 def main():
     # * Read Video
